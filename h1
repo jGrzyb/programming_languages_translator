@@ -6,7 +6,7 @@
     <title>Kolorowy Tekst</title>
     <style>
         body {
-            font-size: 10px;
+            font-size: 20px;
             color: white;
             font-family: 'Courier New', Courier, monospace;
             background-color: rgb(19, 19, 19);
