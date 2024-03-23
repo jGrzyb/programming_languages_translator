@@ -3,7 +3,7 @@ W przyszłości będzie to potencjalnie translator z języka c na python, ale ak
 
 By uruchomić należy pobrać ten [folder](bin/Debug/net7.0) i z jego poziomu uruchomić [skaner.exe](bin/Debug/net7.0/skaner.exe). Może się też przydać platforma .NET.
 
-Program generuje do pliku colored.html pokolorowany tekst z pliku źródłowego. Domyślnie jest to [Scanner.cs](bin/Debug/net7.0/Scanner.cs) ale z wiersza polenceń można ustawić plik źródłowy podając jego ścieżkę po komendzie uruchomienia np.
+Program generuje do pliku [colored.html](colored.html) pokolorowany tekst z pliku źródłowego. Domyślnie jest to [Scanner.cs](bin/Debug/net7.0/Scanner.cs) ale z wiersza polenceń można ustawić plik źródłowy podając jego ścieżkę po komendzie uruchomienia np.
 ```
 .\skaner.exe Scanner.cs
 ```
