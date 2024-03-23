@@ -8,7 +8,7 @@ public class Pr {
             text = sr.ReadToEnd();
         } catch (Exception) {
             try {
-                StreamReader sr = new StreamReader("C:\\Users\\Mateusz\\Documents\\studia\\kompilatory\\skaner\\Scanner.cd");
+                StreamReader sr = new StreamReader("Scanner.cs");
                 text = sr.ReadToEnd();
             } catch(Exception e) {
                 Console.WriteLine(e);
@@ -17,7 +17,7 @@ public class Pr {
         Console.WriteLine(text);
         Scanner scanner = new();
         List<Token> tokens = scanner.getTokens(text);
-        string path = "C:\\Users\\Mateusz\\Documents\\studia\\kompilatory\\skaner\\colored.html";
+        string path = "colored.html";
         Painter.paint(tokens, text, path);
     }
 }

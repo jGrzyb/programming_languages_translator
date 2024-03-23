@@ -2,8 +2,8 @@ using System.Runtime.InteropServices;
 
 public class Painter {
     public static void paint(List<Token> tokens, string text, string path) {
-        string h1 = File.ReadAllText("C:\\Users\\Mateusz\\Documents\\studia\\kompilatory\\skaner\\h1");
-        string h2 = File.ReadAllText("C:\\Users\\Mateusz\\Documents\\studia\\kompilatory\\skaner\\h2");
+        string h1 = File.ReadAllText("h1");
+        string h2 = File.ReadAllText("h2");
         string contents = "";
         for(int i=0; i<tokens.Count(); i++) {
             int start = tokens[i].location;
