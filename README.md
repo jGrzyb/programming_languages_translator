@@ -1,4 +1,4 @@
-# translator-jezyk-w-programowania
+# translator-jezyków-programowania
 W przyszłości będzie to potencjalnie translator z języka c na python, ale aktualnie jest to tylko skaner generujący listę tokenów i plik html z pokolorowaną składnią.
 
 By uruchomić należy pobrać ten [folder](bin/Debug/net7.0) i z jego poziomu uruchomić [skaner.exe](bin/Debug/net7.0/skaner.exe). Może się też przydać platforma .NET.
