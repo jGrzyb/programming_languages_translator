@@ -7,3 +7,5 @@ Program generuje do pliku colored.html pokolorowany tekst z pliku źródłowego.
 ```
 .\skaner.exe Scanner.cs
 ```
+
+![obrazek](colorful_code.png)
