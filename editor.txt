@@ -1,0 +1,23 @@
+public class Pr {
+    public static void Main(string [] args) {
+        while(true) {
+            string text = "";
+        try {
+            StreamReader sr = new StreamReader(args[0]);
+            text = sr.ReadToEnd();
+        } catch (Exception) {
+            try {
+                StreamReader sr = new StreamReader("C:\\Users\\Mateusz\\Documents\\studia\\kompilatory\\skaner\\editor.txt");
+                text = sr.ReadToEnd();
+            } catch(Exception e) {
+                Console.WriteLine(e);
+            }
+        }
+        Console.WriteLine(text);
+        Scanner scanner = new();
+        List<Token> tokens = scanner.getTokens(text);
+        Painter.paint(tokens, text);
+        }
+        
+    }
+}

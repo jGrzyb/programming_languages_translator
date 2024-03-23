@@ -1,0 +1,14 @@
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\bin\Debug\net7.0\skaner.exe
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\bin\Debug\net7.0\skaner.deps.json
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\bin\Debug\net7.0\skaner.runtimeconfig.json
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\bin\Debug\net7.0\skaner.dll
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\bin\Debug\net7.0\skaner.pdb
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\skaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\skaner.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\skaner.AssemblyInfo.cs
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\skaner.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\skaner.dll
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\refint\skaner.dll
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\skaner.pdb
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\skaner.genruntimeconfig.cache
+C:\Users\Mateusz\Documents\studia\kompilatory\skaner\obj\Debug\net7.0\ref\skaner.dll
