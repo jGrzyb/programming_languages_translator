@@ -1,9 +1,10 @@
-# translator-jezyków-programowania
-W przyszłości będzie to potencjalnie translator z języka c na python, ale aktualnie jest to tylko skaner generujący listę tokenów i plik html z pokolorowaną składnią.
+# programming languages translator
+This is C# program that takes text file and puts colored version into [colored.html](colored.html) so it looks like written in code editor.
 
-By uruchomić należy pobrać ten [folder](bin/Debug/net7.0) i z jego poziomu uruchomić [skaner.exe](bin/Debug/net7.0/skaner.exe). Może się też przydać platforma .NET.
+### How to run
+Download this [repo](bin/Debug/net7.0) and run [skaner.exe](bin/Debug/net7.0/skaner.exe) from it. You might also need .NET.
 
-Program generuje do pliku [colored.html](colored.html) pokolorowany tekst z pliku źródłowego. Domyślnie jest to [Scanner.cs](bin/Debug/net7.0/Scanner.cs) ale z wiersza polenceń można ustawić plik źródłowy podając jego ścieżkę po komendzie uruchomienia np.
+You can specify input file by adding its path as argument, for example:
 ```
 .\skaner.exe Scanner.cs
 ```
