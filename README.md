@@ -8,5 +8,6 @@ You can specify input file by adding its path as argument, for example:
 ```
 .\skaner.exe Scanner.cs
 ```
+If there is no path or file does not exist, it will take default file [Scanner.cs](https://github.com/jGrzyb/programming_languages_translator/blob/main/Scanner.cs)
 
 ![obrazek](colorful_code.png)
